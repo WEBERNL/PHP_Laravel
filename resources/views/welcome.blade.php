@@ -82,6 +82,7 @@
                     {{ app('system')->name }}
                 </div>
 
+
                 <div>
                     <img src="{{app('system')->imageFileName}}" style="width: 35%; height: auto;" ></>
                 </div>
